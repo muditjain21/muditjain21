@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning everything 😂
+-🌱 I’m currently learning everything 😂
 
 <!--
 **muditjain21/muditjain21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
